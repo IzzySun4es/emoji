@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import './App.css';
-import Card from './components/card/card';
 import EmojiList from './components/emojiList/emojiList';
 import Header from './components/header/header';
 import Search from './components/search/search';
